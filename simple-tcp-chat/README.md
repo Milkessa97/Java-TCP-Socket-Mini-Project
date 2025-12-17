@@ -20,11 +20,9 @@ A lightweight, real-time chat application built with pure Java sockets. This app
 ### Clone from GitHub
 
 ```bash
-git clone https://github.com/yourusername/simple-tcp-chat.git
+git clone https://github.com/Milkessa97/simple-tcp-chat.git
 cd simple-tcp-chat
 ```
-
-> **Note**: Replace `yourusername` with your actual GitHub username once you've uploaded the repository.
 
 ## 🏗️ Project Structure
 
