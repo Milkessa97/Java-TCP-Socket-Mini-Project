@@ -20,7 +20,7 @@ A lightweight, real-time chat application built with pure Java sockets. This app
 ### Clone from GitHub
 
 ```bash
-git clone [https://github.com/Milkessa97/Java-TCP-Socket-Mini-Project.git](https://github.com/Milkessa97/Java-TCP-Socket-Mini-Project.git)
+git clone https://github.com/Milkessa97/Java-TCP-Socket-Mini-Project.git
 cd simple-tcp-chat
 ```
 
