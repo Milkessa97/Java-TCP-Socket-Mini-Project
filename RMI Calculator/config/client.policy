@@ -1,0 +1,4 @@
+grant {
+    // Allow all permissions for RMI client
+    permission java.security.AllPermission;
+};
